@@ -14,7 +14,7 @@ struct ContentView: View {
                TabView {
                    TabBar1()
                        .tabItem {
-                           Image(systemName: "1.square.fill")
+                           Image(systemName: "1.square")
                            Text("First")
                    }
                    TabBar2()
